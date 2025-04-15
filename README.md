@@ -5,7 +5,7 @@ This project is a **Power BI dashboard built** for exploratory analysis of a gro
 ---
 
 ## 📸 Dashboard Preview
-![BlinkIT Grocery Dashboard](dashboard-preview.png.png)
+!(dashboard-preview.png.png)
 
 ---
 
