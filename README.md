@@ -4,6 +4,7 @@ This project is a **Power BI dashboard built** for exploratory analysis of a gro
 
 ---
 
+## 📸 Dashboard Preview
 ![BlinkIT Grocery Dashboard](dashboard-preview.png)
 
 ---
@@ -71,12 +72,6 @@ The dataset includes information on:
 - Product features: Item Type, Fat Content, Item Visibility, Item Size
 - Outlet features: Type, Size, Location, Establishment Year
 - Numeric fields: Sales, Ratings, and Item-level metrics
-
----
-
-## 📸 Dashboard Preview
-
-*(Add a screenshot here if available)*
 
 ---
 
